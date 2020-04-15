@@ -18,7 +18,7 @@ public struct Acknowledgement {
     public let license: License
     
     public var fullText: String {
-        return "\(self.name)\n\nCopyright © \(self.copyright)\n\n\(self.license.text)"
+        return "\(self.name)\n\n\(self.copyright)\n\n\(self.license.text)"
     }
     
     // MARK: Initializers
