@@ -19,3 +19,5 @@ extension Acknowledgement {
 ```swift
 let acknowledgementsVC = AcknowledgementsViewController(acknowledgements: [.openSourceFramework, .acknowledgements])
 ```
+
+**`Acknowledgement` already contains an `Acknowledgement` for the `Acknowledgements` framework, so you can easily credit it as shown in the above code block.**
