@@ -1,2 +1,1 @@
-## Acknowledgements
-### A simple Swift framework for adding acknowledgements to your app.
+![Banner](Resources/Assets/Acknowledgements.png)
